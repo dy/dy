@@ -1,4 +1,4 @@
-Normcore js
+Normcore semiconductor
 
 <!--
 **dy/dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
