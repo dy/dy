@@ -1,4 +1,5 @@
-Normcore semiconductor for better DX.
+Normcore DX semiconductor.
+
 Perfection is when there's nothing to take away.
 
 - 🔭 I’m currently working on [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz)
