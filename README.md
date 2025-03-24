@@ -1,6 +1,4 @@
-Normcore DX semiconductor.
-
-Perfection is when there's nothing to take away.
+Normcore DX semiconductor converging perfection.
 
 - 🔭 I’m currently working on [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz)
 
