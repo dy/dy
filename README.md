@@ -1,6 +1,6 @@
 Normcore DX semiconductor converging perfection.
 
-- 🔭 I’m currently working on [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz)
+🔭 [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz)
 
 <!--
 **dy/dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
