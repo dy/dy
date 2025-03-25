@@ -1,4 +1,4 @@
-Normcore DX semiconductor converging perfection.
+Normcore DX semiconductor. Converging perfection. Software as art, sport or meditation.
 
 🔭 [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz)
 
