@@ -1,16 +1,5 @@
-Normcore DX semiconductor. Converging perfection. Eclectic engineering. Software as devotion.
+Normcore DX semiconductor. Software as a seva.
 
-🔭 [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz)
+<!-- Converging perfection. Eclectic engineering. -->
 
-<!--
-**dy/dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning scroll effects, 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+🔭 [sprae](https://github.com/dy/sprae), [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz)
