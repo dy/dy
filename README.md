@@ -1,4 +1,4 @@
-Software as a seva.
+Mindful purpose-driven software.
 
 <!-- Normcore DX semiconductor. -->
 
