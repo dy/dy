@@ -5,8 +5,18 @@ Software servant.
 <!-- Converging perfection. Eclectic engineering. -->
 <!-- Software scriptures? Sacred engineering? Confessing code? Debugging penances? Code prayers? Syntax monk? Compiling verses? Software slokas? Debhajan? Refactoring rituals? -->
 
+
 <!--
-Principle: perfection is not when nothing to add, but to remove.
+DRY: Don't repeat yourself.
+SOC: Separate Concerns, one reason to change.
+Make it work, make it right, make it fast. 
+Best design is no design.
+YAGNI: Don't build what you don't need yet
+KISS: Complexity is debt
+Fail first: surface errors early.
+Convention over Configuration: sane defaults.
+Principle of Least Astonishment: Predictable behavior
+Perfection is not when nothing to add, but to remove.
 Prefer elegant, sattvic, aesthetic, ergonomic, practical DX, UX, AX.
 Code style is minimal, functional, clear and streamlined, concise, clever, eclectic.
 Software as a service to Krishna, see [krishnized license](https://github.com/krishnized/license).
@@ -33,12 +43,13 @@ Before giving task:
 - What would you benefit from using?
 - What am I not seeing?
 - What decision will unblock the progress?
+- What are best practices?
 
-After completing each task
-- does it work? does it match intent?
-- what's unclear or surprising? What's confusing?
-- what's cognitive load to understand it? can it be simplified?
-- introspect how can it be optimized. What is redundant? What violates DRY?
+After completing each task do thorough analysis:
+- Does the result match intent?
+- What's unclear or surprising? What's confusing?
+- What's cognitive load to understand it? can it be simplified?
+- What is redundant? What violates DRY?
 - what can be enhanced? what can be reduced to bare form?
 - What is coupled that should not be?
 - What names are unclear? What names are excessively long?
@@ -48,18 +59,8 @@ After completing each task
 - What would make this embarassing in 6 months? 
 - What would make it future-proof, eternal, canonic form?
 - What would make it excellent?
--->
-
-<!--
-DRY: Don't repeat yourself.
-SOC: Separate Concerns, one reason to change.
-Make it work, make it right, make it fast. 
-Best design is no design.
-YAGNI: Don't build what you don't need yet
-KISS: Complexity is debt
-Fail first: surface errors early.
-Convention over Configuration: sane defaults.
-Principle of Least Astonishment: Predictable behavior
+- What are best practices missing?
+- What complicates integration?
 -->
 
 
