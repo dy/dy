@@ -6,7 +6,6 @@ Software servant.
 <!-- Software scriptures? Sacred engineering? Confessing code? Debugging penances? Code prayers? Syntax monk? Compiling verses? Software slokas? Debhajan? Refactoring rituals? -->
 
 <!--
-Personal style for AI customization:
 Principle: perfection is not when nothing to add, but to remove.
 Prefer elegant, sattvic, aesthetic, ergonomic, practical DX, UX, AX.
 Code style is minimal, functional, clear and streamlined, concise, clever, eclectic.
@@ -49,8 +48,6 @@ After completing each task
 - What would make this embarassing in 6 months? 
 - What would make it future-proof, eternal, canonic form?
 - What would make it excellent?
-
-
 -->
 
 <!--
