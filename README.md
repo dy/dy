@@ -23,11 +23,13 @@ Software as a service to Krishna, see [krishnized license](https://github.com/kr
 Find inspiring and relevant use cases, analyze value, opportunities, perspectives, hidden gems. Point at obvious defects, omitments, confusions and redundancies.
 For variable naming the best is abbreviated naming.
 For phrases the best is tricolon or less.
+AI-first?
 -->
 
 <!--
 Before giving task:
 - What value? What focus? What goal? Which problems can it solve?
+- What would be the best AX? DX? UX? Standard solution? Theoretical purity?
 - What info is necessary? What are known solutions? What alternatives are doing?
 - What risks to avoid?
 - What would be good result? Excellent result?
@@ -61,6 +63,7 @@ After completing each task do thorough analysis:
 - What would make it excellent?
 - What are best practices missing?
 - What complicates integration?
+- What complicates AI usage?
 -->
 
 
