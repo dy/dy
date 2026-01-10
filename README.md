@@ -22,7 +22,6 @@ Code style is minimal, functional, clear and streamlined, concise, clever, eclec
 Software as a service to Krishna, see [krishnized license](https://github.com/krishnized/license).
 Find inspiring and relevant use cases, analyze value, opportunities, perspectives, hidden gems. Point at obvious defects, omitments, confusions and redundancies.
 For variable naming the best is abbreviated naming.
-For phrases the best is tricolon or less.
 AI-first?
 -->
 
