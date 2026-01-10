@@ -1,4 +1,4 @@
-Tech das
+[Tech das](https://dy.github.io)
 
 <!-- Software servant. -->
 <!-- Normcore DX semiconductor. -->
@@ -28,4 +28,4 @@ AI-first?
 
 
 
-🔭 [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz)
+<!-- 🔭 [watr](https://github.com/dy/watr), [jz](https://github.com/dy/jz) -->
