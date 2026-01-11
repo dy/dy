@@ -1,4 +1,4 @@
-[Tech das](https://dy.github.io)
+[Tech-dās](https://dy.github.io)
 
 <!-- Software servant. -->
 <!-- Normcore DX semiconductor. -->
