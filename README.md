@@ -1,4 +1,5 @@
-[Tech-dās](https://dy.github.io)
+[Tech-dās](https://dy.github.io).<br>
+Minimal tools for sound, color, type & code.
 
 🔭 [jz](https://github.com/dy/subscript)<br>
 ⏳ [color-space](https://github.com/colorjs/color-space)<br>
