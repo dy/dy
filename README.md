@@ -1,8 +1,8 @@
 [Tech-dās](https://dy.github.io)
 
-🔭 [jz](https://github.com/dy/subscript)
-⏳ [color-space](https://github.com/colorjs/color-space)
-⏳ [web-audio-api](https://github.com/audiojs/web-audio-api)
+🔭 [jz](https://github.com/dy/subscript)<br>
+⏳ [color-space](https://github.com/colorjs/color-space)<br>
+⏳ [web-audio-api](https://github.com/audiojs/web-audio-api)<br>
 
 <!-- Software servant. -->
 <!-- Normcore DX semiconductor. -->
