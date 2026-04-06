@@ -2,6 +2,7 @@
 
 Minimal tools for sound, color, type & code.
 
+🔭 [audio](https://github.com/audiojs)<br>
 🔭 [jz](https://github.com/dy/subscript)<br>
 ⏳ [color-space](https://github.com/colorjs/color-space)<br>
 
